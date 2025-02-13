@@ -1,0 +1,20 @@
+h1 {
+    color: pink;
+    background-color: yellow;
+}
+p {
+    color: blue;
+}
+p#speciaal {
+    color: azure;
+}
+img {
+    border-width: 10px;
+    border-color: violet;
+    border-style: ridge;
+}
+body {
+    background-color: rgb(168, 54, 54);
+    background-image: url(https://media.tenor.com/RhyynNReOWMAAAAM/heldivers.gif);
+    background-size: contain;
+}
